@@ -1,0 +1,50 @@
+#main{
+    width: 50%;
+    height: 50%;
+    margin: auto;
+    background-color: rgb(71, 69, 69);
+    padding: 2%;
+    border-radius: 20px;
+    margin-top: 10%;
+    box-shadow: -5px 9px 11px 3px rgba(82, 67, 67, 0.69);
+}
+ #input{
+    width: 60%;
+    height: 30px;
+    border-radius: 10px;
+ }
+ button{
+     background-color: rgb(71, 69, 69);
+     color: whitesmoke;
+     border-radius: 5px;
+ }
+ #addBut{
+     text-align: center;
+     font-size: 150%;
+     background-color: black;
+     color: whitesmoke;
+     font-weight:bold;
+     border-radius: 10px;
+ }
+ li{
+     font-size: 30px;
+     color: rgb(71, 136, 114);
+
+ }
+ p{
+     display: inline;
+ }
+ #clearLi,#clearCom{
+    text-align: center;
+    font-size: 100%;
+    background-color: rgb(36, 33, 33);
+    color: whitesmoke;
+    border-radius: 10px;
+    margin-left: 5px;
+ }
+
+
+
+.completeMision {
+    text-decoration: line-through;
+}
